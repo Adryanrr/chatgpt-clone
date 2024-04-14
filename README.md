@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 ## Instalação
 
 1. Clone este repositório:
-https://github.com/Adryanrr/chatgpt-clone
+[https://github.com/Adryanrr/chatgpt-clone](https://github.com/Adryanrr/chatgpt-clone)
 
 2. Navegue até o diretório do projeto:
 cd chatgpt-clone
