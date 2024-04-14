@@ -1,4 +1,4 @@
-# ChatGPT Clone
+# ChatGPT Clone (Em Desenvolvimento)
 
 Este é um projeto de estudo para criar um clone do ChatGPT, um modelo de linguagem de inteligência artificial desenvolvido pela OpenAI. O objetivo deste projeto é explorar os conceitos por trás da criação de um chatbot baseado em texto, utilizando tecnologias como Node.js e React.
 
